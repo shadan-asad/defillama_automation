@@ -1,4 +1,4 @@
-# Definllama Automation
+# Defillama Automation
 
 This is a Puppeteer automation project that performs specific actions on the "swap.defillama.com" website.
 
