@@ -8,7 +8,6 @@ import {
 
 const start = async () => {
   const browser = await launch({
-    executablePath: "/usr/bin/brave-browser",
     headless: false,
     defaultViewport: null,
     args: ["--start-maximized"],
