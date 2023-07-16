@@ -1,11 +1,11 @@
 # Defillama Automation
 
-This is a Puppeteer automation project that performs specific actions on the "swap.defillama.com" website.
+This is a Puppeteer automation project that automates the form filling on the "swap.defillama.com" website.
 
 ## Requirements
 
 - Node.js (version 14 or higher)
-- Google Chrome or Brave Browser (Make sure it's installed on your system)
+- Google Chrome or Brave Browser
 
 ## Installation
 
